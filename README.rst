@@ -1,4 +1,4 @@
-RoboCup@Home rulebook public git repository
-===========================================
+`RoboCup@Home <http://www.robocupathome.org>`_ rulebook
+=======================================================
 
-Rulebook(s) of the RoboCup@Home league. In this repository we host an archive of past rulebooks (in addition to the archive on the RoboCup@Home website at http://www.robocupathome.org).
+Rulebook(s) of the `RoboCup@Home <http://www.robocupathome.org>`_ league. In this repository we host an archive of past rulebooks (in addition to the archive on the `RoboCup@Home <http://www.robocupathome.org>`_ website at http://www.robocupathome.org).
